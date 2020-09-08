@@ -1,5 +1,5 @@
 // App-ot epitjuk egyutt
-/*let tomeg = 97;
+let tomeg = 97;
 console.log(tomeg);
 let magassag = 170;
 console.log(magassag);
@@ -24,4 +24,4 @@ if (BMIertek < 18.5) {
     console.log("Obese (class III)");
 } else {
     console.log("Obese (class IV)");
-}*/
+}
